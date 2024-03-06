@@ -4,8 +4,9 @@ The tool reads property entries from a given window's property list
 ## Usage
 
 Options:
+```
 -w windowName - window name (mandatory)
-
+```
 
 ## Example
 
